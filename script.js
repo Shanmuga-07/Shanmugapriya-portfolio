@@ -1,7 +1,4 @@
-// Toggle Navbar for Mobile
-
-function toggleMenu() {
-
-  document.getElementById("navLinks").classList.toggle("active");
-
-}
+// app.js
+document.getElementById('cta').addEventListener('click', () => {
+  alert('Button clicked! Replace this with your logic.');
+});
